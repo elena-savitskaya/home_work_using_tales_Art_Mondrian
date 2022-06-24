@@ -1,0 +1,45 @@
+table {
+    width: 650px;
+    height: 650px;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+td {
+    border: 10px solid #000;
+}
+
+.red {
+    background-color: #ff0000;
+    width: 30px;
+}
+
+.red1 {
+    background-color: #ff0000;
+}
+
+.yellow {
+    background-color: #ffff00;
+}
+
+ .blue {
+     background-color: #0000ff;
+ }
+
+ .black {
+     background-color: #000;
+ }
+
+.height {
+    height: 150px;
+}
+
+ .height2 {
+     height: 30px;
+ }
+
+ .new {
+     background-color: #000;
+     height: 30px;
+     width: 150px;
+ }
